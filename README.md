@@ -52,5 +52,6 @@
 * Add some more HTML and style it anyway your choose!
 
 
-
+## Extension
+Finished everything above? [Here's](https://github.com/codebug-us/NashWD-2-Extension) an exercise you can start on. 
 
