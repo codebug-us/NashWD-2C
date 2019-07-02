@@ -8,7 +8,7 @@
 * Make the background color of the `body` a nice green. I used `#518248`
 * Change the `font-family` of the body. See some options here: [CSS font families](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
 * Center the "Climb Every Mountain" heading.
-* Change the background color of the `quote-box` to white.
+* Change the background color of the `quote-box` to white. Remember the `quote-box` is an id. You will need to select it using a `#` in your CSS!
 * Make the width of the `quote-box` shorter.
 * Figure out how to round the corners of the `quote-box`. Hint: Google "how to round corners in CSS"
 * Want more space between the words and the edge of the `quote-box`? Check out [this](https://www.w3schools.com/css/css_boxmodel.asp). You have to change one of those properties
@@ -18,7 +18,7 @@
 ![level two](/images/level-2.png)
 * Change the `body` to have a `linear-gradient()` background color. Check out this [link](https://www.w3schools.com/css/css3_gradients.asp) for help. **HINT**: Notice that `linear-gradient()` is used on `background` not `background-color`.
 * If you are having trouble getting the gradient to go across the whole page. Try adding `background-attachment: fixed;`.
-* Make all of the `author`s a smaller font size.
+* Make all of the `author`s a smaller font size. Remember! `author` is a class so you will be selecting it using a `.` in your CSS.
 * Put a border around the `built-strong-box` .
 * Change the color of the text inside `built-strong-box` to white.
 * Center the text in `built-strong-box`.
